@@ -1,0 +1,12 @@
+{
+  "name": "link-snarf",
+  "version": "0.0.1",
+  "dependencies": {
+    "cheerio": "0.12.3",
+    "request": "2.27.x"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  }
+}
